@@ -111,23 +111,25 @@ The app currently uses static placeholders for all data points, which will be re
    cd forestry-management-app
 
 2. Install Dependencies:
-npm install
-# or
-yarn install
+   ```bash
+   npm install
+   # or
+   yarn install
 
 3.Run the App:
-npm run start
-npm run android   # For Android
-npm run ios       # For iOS (MacOS only)
-
+```bash
+   npm run start
+   npm run android   # For Android
+   npm run ios       # For iOS (MacOS only)
+```
 4.Login Credentials:
-
+```bash
 Forestry Manager: manager/ password
 Field Operative: operative/ password
 GIS Specialist: gis/ password
 Emergency Coordinator: coordinator/ password
 Administrator: admin/ password
-
+```
 Mock Data
 The app uses static data placeholders. No live data integration is required for now.
 
