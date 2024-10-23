@@ -27,29 +27,29 @@ A React Native mobile application designed to optimize forestry operations. The 
 ## Personas
 
 ### 1. Forestry Manager
-<img src="img/manager_dashboard.jpg" alt="Forestry Manager Dashboard" width="400">
+<img src="img/manager_dashboard.jpg" alt="Forestry Manager Dashboard" width="200">
 - **Dashboard**: Overview of tasks, work orders, team status, upcoming inspections.
 - **Work Order Management**: List of work orders, with details and static data.
 - **Inspection Overview**: Pie charts, bar charts, and status tracking for ongoing inspections.
 - **Team Assignment**: Assign tasks and track team availability.
 
 ### 2. Field Operative
-<img src="img/operative_dashboard.jpg" alt="Field Operative Dashboard" width="400">
+<img src="img/operative_dashboard.jpg" alt="Field Operative Dashboard" width="200">
 - **Task List**: Overview of assigned tasks with priority markers and due dates.
 - **Inspection Form**: Ability to submit inspection reports with static data (tree status, hazards).
 
 ### 3. GIS Specialist
-<img src="img/gis_dashboard.jpg" alt="GIS Specialist Dashboard" width="400">
+<img src="img/gis_dashboard.jpg" alt="GIS Specialist Dashboard" width="200">
 - **Interactive Map View**: GIS layers for tree inventory and inspections, with static markers for inspections and heatmaps.
 - **Data Management**: Manage various GIS datasets representing forestry zones, species distribution, etc.
 
 ### 4. Emergency Response Coordinator
-<img src="img/emergency_dashboard.jpg" alt="Emergency Response Coordinator Dashboard" width="400">
+<img src="img/emergency_dashboard.jpg" alt="Emergency Response Coordinator Dashboard" width="200">
 - **Emergency Task List**: Overview of emergencies (e.g., storm alerts, wildfire risks) with operatives assigned.
 - **Emergency Resources**: List of resources and deployment functionality.
 
 ### 5. Administrator
-<img src="img/admin_dashboard.jpg" alt="Administrator Dashboard" width="400">
+<img src="img/admin_dashboard.jpg" alt="Administrator Dashboard" width="200">
 - **User Management**: Add, update, or remove users with role assignment.
 - **System Health Check**: Static graphs for app performance, uptime, and response time.
 
@@ -58,7 +58,7 @@ A React Native mobile application designed to optimize forestry operations. The 
 ### Login Screen
 Each persona has a distinct login flow with customized nature animations (e.g., swaying leaves, growing trees).
 
-<img src="img/login.jpg" alt="Login Screen" width="400">
+<img src="img/login.jpg" alt="Login Screen" width="200">
 
 ### Persona Dashboards
 Each persona dashboard is uniquely themed with charts and insights relevant to their role.
