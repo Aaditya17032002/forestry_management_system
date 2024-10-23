@@ -27,7 +27,7 @@ A React Native mobile application designed to optimize forestry operations. The 
 ## Personas
 
 ### 1. Forestry Manager
-<img src="img/manager_dashboard.jpg" alt="Forestry Manager Dashboard" width="200">
+<img src="img/dashboard.jpg" alt="Forestry Manager Dashboard" width="200">
 - Dashboard: Overview of tasks, work orders, team status, upcoming inspections.
 - Work Order Management: List of work orders, with details and static data.
 - Inspection Overview: Pie charts, bar charts, and status tracking for ongoing inspections.
